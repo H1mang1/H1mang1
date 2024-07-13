@@ -19,6 +19,10 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h1mang1&show_icons=true&locale=en" alt="h1mang1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1mang1&" alt="h1mang1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1mang1&theme="dracula" alt="h1mang1" /></p>
+
+### 🔝 Top Contributed Repo
+(https://api.github.com/search/repositories?q=%20+fork:true+user:H1mang1)
 
 ## I earned these cool badges too, check them out
 [![@H1mang1's Holopin board](https://holopin.io/api/user/board?user=H1mang1)](https://www.holopin.io/@h1mang1#)
